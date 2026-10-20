@@ -2,7 +2,7 @@
 
 **Len deg tilbake. Skrivebordet henger med.**
 
-![To illustrasjoner viser hvordan det fungerer: Når du sitter nær skjermen, beholder grensesnittet vanlig størrelse. Når du lener deg tilbake, blir det større. Lokal ansiktssporing, to stabile skaleringsnivåer og mulighet til å sette på pause.](assets/lean-scale.svg)
+![To illustrasjoner viser hvordan det fungerer: Når du sitter nær skjermen, beholder grensesnittet vanlig størrelse. Når du lener deg tilbake, blir det større. Lokal ansiktssporing, to stabile skaleringsnivåer og mulighet til å sette på pause.](assets/lean-scale-nb.svg)
 
 lean-scale bruker webkameraet til å anslå hvor langt unna du sitter, og tilpasser **skjermskaleringen i Hyprland**. Len deg tilbake og les behagelig. Sett deg frem igjen for å få mer arbeidsplass på skjermen.
 
